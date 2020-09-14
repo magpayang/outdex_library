@@ -1,3 +1,5 @@
+# this is imported from git hub sep 14 2020
+
 import outdex_0
 
 procs = outdex_0.smart_ass_machine()
@@ -74,4 +76,6 @@ if len(indices) == 1:
     print(tempo_string)
 else:
     raise Exception  # should only have one index
+
+my_array = [1,2,3,4]
 
